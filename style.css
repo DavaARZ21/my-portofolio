@@ -450,7 +450,7 @@ p {
 #about .col-left .about-img::after {
 	content: '';
 	position: absolute;
-	left: -33px;
+	left: 33px;
 	top: 19px;
 	height: 98%;
 	width: 98%;
@@ -785,3 +785,4 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
+
